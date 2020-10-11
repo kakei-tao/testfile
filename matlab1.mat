@@ -1,2 +1,6 @@
 <?
 matlab();
+for i=1:3;
+a=i+1;
+end
+a
